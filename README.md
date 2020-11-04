@@ -17,7 +17,7 @@ In this project I utilized my skills and knowledge of MIT App Inventor as well a
 ### 2018-2019
 Java Group Project - [RoadBrawler(?)](https://github.com/LifeDrain28/RoadBrawler)
 
-In this project I worked with a team to create a game that was easy and fun. I worked on developing and implementing background music primarily and also assisted with stage creation.
+In this project I worked with a team to create a game that was easy and fun. I primarily worked on developing and implementing background music and also assisted with stage creation.
 
 ### 2020-2021
 [Stratagem](https://github.com/LifeDrain28/Stratagem)
