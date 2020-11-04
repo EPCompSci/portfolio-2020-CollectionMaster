@@ -9,14 +9,14 @@ Create links to group projects (create a new repo for completed apps) you've bee
 
 
 
-##2017-2018
+## 2017-2018
 CSP Create App - TxtAdventure
 
 In this project I utilized my skills and knowledge of MIT App Inventor to create an app that displayed all of my expertise. It is the first fully-functioning app I have made.
 
-##2018-2019
+## 2018-2019
 Java Group Project [link]()
 
 
-##2020-2021
+## 2020-2021
 [Stratagem](https://github.com/LifeDrain28/stratagem)
