@@ -12,10 +12,10 @@ Create links to group projects (create a new repo for completed apps) you've bee
 ### 2017-2018
 CSP Create App - TxtAdventure.aia
 
-In this project I utilized my skills and knowledge of MIT App Inventor as well as general computer science information that I had recently learned to create an app that displayed all of my expertise. It is the first fully-functioning app I have made.
+In this project I utilized my skills and knowledge of MIT App Inventor as well as general computer science information that I had recently learned to create an app that displayed all of my expertise. In it, you explore an old cabin in the middle of the woods and solve simple puzzles to progress. It is the first fully-functioning app I have made.
 
 ### 2018-2019
-Java Group Project - [RoadBrawler(?)](https://github.com/LifeDrain28/RoadBrawler)
+Java Group Project - [NotStreetFighter(?)](https://github.com/LifeDrain28/NotStreetFighter)
 
 In this project I worked with a team to create a game that was easy and fun. I primarily worked on developing and implementing background music and also assisted with stage creation.
 
