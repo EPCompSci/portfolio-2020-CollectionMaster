@@ -10,14 +10,16 @@ Create links to group projects (create a new repo for completed apps) you've bee
 
 
 ### 2017-2018
-CSP Create App - TxtAdventure.aia
+AP CSP Create App - TxtAdventure.aia
 
 In this project I utilized my skills and knowledge of MIT App Inventor as well as general computer science information that I had recently learned to create an app that displayed all of my expertise. In it, you explore an old cabin in the middle of the woods and solve simple puzzles to progress. It is the first fully-functioning app I have made.
 
 ### 2018-2019
-Java Group Project - [Bear-Brawl](https://lifedrain28.itch.io/bear-brawl)
+AP Java Group Project - [Bear-Brawl](https://lifedrain28.itch.io/bear-brawl)
 
 In this project I worked with a team to create a game that was easy and fun. I primarily worked on developing and implementing background music and also assisted with stage creation.
 
 ### 2020-2021
-[Stratagem](https://github.com/LifeDrain28/Stratagem)
+iOS App Development Project - [Stratagem](https://github.com/Stratagem-Studios/Stratagem)
+
+In this project I worked with a group of students to create an app that we successfully uploaded to the AppStore. For the most part, I managed the app's TestFlight and AppStore Connect pages in order to properly test and upload the app. In addition, I worked on marketing and promoting the app and on developing the app icon.
