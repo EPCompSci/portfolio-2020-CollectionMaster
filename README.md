@@ -17,9 +17,9 @@ In this project I utilized my skills and knowledge of MIT App Inventor as well a
 ### 2018-2019
 AP Java Group Project - [Bear-Brawl](https://lifedrain28.itch.io/bear-brawl)
 
-In this project I worked with a team to create a game that was easy and fun. I primarily worked on developing and implementing background music and also assisted with stage creation.
+In this project I worked with a group of students to create a game that was easy and fun. I primarily worked on developing and implementing background music and also assisted with stage creation.
 
 ### 2020-2021
 iOS App Development Project - [Stratagem](https://github.com/Stratagem-Studios/Stratagem)
 
-In this project I worked with a group of students to create an app that we successfully uploaded to the AppStore. For the most part, I managed the app's TestFlight and AppStore Connect pages in order to properly test and upload the app. In addition, I worked on marketing and promoting the app and on developing the app icon.
+In this project I worked with a team to create an app that we successfully uploaded to the AppStore. For the most part, I managed the app's TestFlight and AppStore Connect pages in order to properly test and upload the app. In addition, I worked on marketing and promoting the app and on developing the app icon.
